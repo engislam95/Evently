@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+## Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Event Dashboard for managing  sessions and users per session. 
+
+# What it's already implemented 
+
+- React.js with TypeScript
+- AntDesign as CSS library
+- Axios intercepterors 
+- Image uploader with darg and drop 
+- Autocomplete search select input
+- Modals includes FormData.
+- Utils which hold  global assets and functions
+- Reusable components like { Image uploader , forms , ... }
+- Create a user modal (for the speaker & moderator).
+- Select an image with drag and drop.
+
+
+
+# What it's missing cause the delivery and my availability but also provided some required logic like { Axios Interceptors }
+
+- Responsive
+- TypeScript { remove /any/ }
+- env file
+
 
 ## Available Scripts
 
