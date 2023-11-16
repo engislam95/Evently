@@ -1,0 +1,26 @@
+.sessions .session_header{
+   display:  flex; 
+   align-items: baseline;
+   justify-content: space-between;
+   margin-bottom: 2rem ;
+   z-index: 2000;
+}
+.sessions .session_header button {
+    font-weight: bold;
+}
+
+.ant-modal-root .ant-modal-mask
+{
+    background-color: unset;
+}
+.ant-modal-root .ant-modal-wrap
+{
+    top: 10rem;
+}
+
+.ant-upload-wrapper.ant-upload-picture-card-wrapper .ant-upload-list.ant-upload-list-picture-card .ant-upload-list-item-container
+{
+    width: 100%;
+    height: 200px;
+    margin-top: 1rem;
+}
