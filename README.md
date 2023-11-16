@@ -1,3 +1,7 @@
+
+## Live Demo:  
+https://evently-liard.vercel.app
+
 ## Introduction
 
 Event Dashboard for managing  sessions and users per session. 
@@ -17,7 +21,7 @@ Event Dashboard for managing  sessions and users per session.
 
 
 
-# What it's missing cause the delivery and my availability but also provided some required logic like { Axios Interceptors , Server side autocomplete select search input with add btn for new speacker or moderator }
+# What it's missing cause the delivery and my availability but also provided some required logic like { Axios Interceptors  }
 
 - Responsive
 - TypeScript { remove /any/ }
