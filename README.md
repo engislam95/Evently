@@ -8,7 +8,7 @@ Event Dashboard for managing  sessions and users per session.
 - AntDesign as CSS library
 - Axios intercepterors 
 - Image uploader with darg and drop 
-- Autocomplete search select input
+- Autocomplete search select input with server side fetching data for both { speakers and moderators } 
 - Modals includes FormData.
 - Utils which hold  global assets and functions
 - Reusable components like { Image uploader , forms , ... }
@@ -17,7 +17,7 @@ Event Dashboard for managing  sessions and users per session.
 
 
 
-# What it's missing cause the delivery and my availability but also provided some required logic like { Axios Interceptors }
+# What it's missing cause the delivery and my availability but also provided some required logic like { Axios Interceptors , Server side autocomplete select search input with add btn for new speacker or moderator }
 
 - Responsive
 - TypeScript { remove /any/ }
